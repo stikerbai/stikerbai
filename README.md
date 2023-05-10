@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=strikerbai&show_icons=true" align="right" />
 
 SJTU EE student here, currently majoring in CS.
